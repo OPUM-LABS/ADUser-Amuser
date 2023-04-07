@@ -82,13 +82,13 @@ This program allows you to perform actions on multiple AD User objects at the sa
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Features
-You can do for all selectet users:
-✨ Write all groups to the info-attribute
-✨ Write all groups as a list to a TXT-File
-✨ Remove all assigned groups
-✨ Remove from the global adressbook (Exchange)
-✨ Disable user
-✨ Delete user (with a "high security" confirmation mechanism
+You can do for all selectet users:  
+✨ Write all groups to the info-attribute  
+✨ Write all groups as a list to a TXT-File  
+✨ Remove all assigned groups  
+✨ Remove from the global adressbook (Exchange)  
+✨ Disable user  
+✨ Delete user (with a "high security" confirmation mechanism  
 ✨ Set up to five attribute-values at once
 
 <p align="right">(<a href="#top">back to top</a>)</p>
