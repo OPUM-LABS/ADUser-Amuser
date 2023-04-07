@@ -45,7 +45,6 @@
 </div>
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -70,12 +69,10 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/OPUM-LABS/ADUser-Amuser/blob/main/.screenshots/ADUser-Amuser_b%26w.png)
-
 
 This program allows you to perform actions on multiple AD User objects at the same time easily and efficiently without having to know any PowerShell command.
 
@@ -90,7 +87,6 @@ You can do for all selectet users:
 ✨ Disable user  
 ✨ Delete user (with a "high security" confirmation mechanism  
 ✨ Set up to five attribute-values at once
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
@@ -99,7 +95,6 @@ You can do for all selectet users:
 * [Windows PowerShell](https://docs.microsoft.com/en-us/powershell/)
 * [Windows PowerShell ISE](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/ise/introducing-the-windows-powershell-ise?view=powershell-7.1)
 * [Notepad++](https://notepad-plus-plus.org/)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -118,7 +113,6 @@ The following prerequisites must be met:
 ### Installation
 
 This is a program that can be easily run without installation.
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -126,8 +120,6 @@ This is a program that can be easily run without installation.
 ## Usage
 
 Users can be searched globally or filtered by OU if desired, based on their SamAccountName or UserPrincipalName and. Several options are then available for interacting with them.
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -135,7 +127,6 @@ Users can be searched globally or filtered by OU if desired, based on their SamA
 ## License
 
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
