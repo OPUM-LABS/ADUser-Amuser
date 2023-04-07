@@ -87,7 +87,8 @@ You can do for all selectet users at once:
 ✨ Disable user  
 ✨ Delete user (with a "high security" confirmation mechanism)  
 ✨ Set up to five attribute-values at once  
-✨ Toggle between simple and verbose output
+✨ Toggle between simple and verbose output  
+✨ Toggle between dark and bright theme
 
 ### Built With
 
