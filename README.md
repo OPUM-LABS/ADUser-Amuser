@@ -76,8 +76,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://github.com/OPUM-LABS/ADUser-Amuser/blob/main/.screenshots/ADUser-Amuser_b%26w.png)
 
 
-With this tool, Windows Updates can be comfortably managed and installed on one to several systems from one place. 
-I wrote this tool primarily for myself, if it also helps others, I am not unhappy.
+This program allows you to perform actions on multiple AD User objects at the same time easily and efficiently without having to know any PowerShell command.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -117,7 +116,7 @@ This is a program that can be easily run without installation.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-If something is unclear, there is a tab (Manual) in the program under which all the operating instructions are listed.
+Users can be searched globally or filtered by OU if desired, based on their SamAccountName or UserPrincipalName and. Several options are then available for interacting with them.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
