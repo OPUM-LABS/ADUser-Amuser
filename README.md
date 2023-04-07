@@ -35,7 +35,7 @@
 <h3 align="center">ADUser-Amuser</h3>
 
   <p align="center">
-    A tool for easy interaction wit ADUsers based on PowerShell.
+    A tool for easy interactions wit ADUsers based on PowerShell.
     <br />
     <br />
     <a href="https://github.com/OPUM-LABS/ADUser-Amuser/issues">Report Bug</a>
@@ -53,6 +53,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#features">Features</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -80,6 +81,17 @@ This program allows you to perform actions on multiple AD User objects at the sa
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Features
+You can do for all selectet users:
+✨ Write all groups to the info-attribute
+✨ Write all groups as a list to a TXT-File
+✨ Remove all assigned groups
+✨ Remove from the global adressbook (Exchange)
+✨ Disable user
+✨ Delete user (with a "high security" confirmation mechanism
+✨ Set up to five attribute-values at once
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
@@ -89,7 +101,6 @@ This program allows you to perform actions on multiple AD User objects at the sa
 * [Notepad++](https://notepad-plus-plus.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -104,13 +115,11 @@ The following prerequisites must be met:
 * PowerShell 5 and up
 * domain-joined computer
 
-
 ### Installation
 
 This is a program that can be easily run without installation.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -120,7 +129,6 @@ Users can be searched globally or filtered by OU if desired, based on their SamA
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
