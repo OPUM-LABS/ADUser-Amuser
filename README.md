@@ -101,8 +101,8 @@ Just download the latest ADUser-Amuser.exe or ADUser-Amuser.ps1 and run it on a 
 ### Prerequisites
 
 The following prerequisites must be met:
-* Internet-Connection (System from which MitchPatch is executed)
 * PowerShell 5 and up
+* domain-joined computer
 
 
 ### Installation
