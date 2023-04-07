@@ -88,7 +88,6 @@ You can do for all selectet users at once:
 ✨ Delete user (with a "high security" confirmation mechanism)  
 ✨ Set up to five attribute-values at once  
 ✨ Toggle between simple and verbose output
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
