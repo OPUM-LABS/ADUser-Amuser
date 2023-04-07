@@ -74,7 +74,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/OPUM-LABS/ADUser-Amuser/blob/main/.screenshots/ADUser-Amuser_b%26w.png)
 
-This program allows you to perform actions on multiple AD User objects at the same time easily and efficiently without having to know any PowerShell command.
+This program allows you to perform actions on multiple AD User objects at the same time easily and efficiently without having to know any PowerShell command.  
+"Amuser" stands for the fact that the processing of repetitive tasks with ADUsers can also be fun.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -103,7 +104,7 @@ You can do for all selectet users at once:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Just download the latest ADUser-Amuser.exe or ADUser-Amuser.ps1 and run it on a domain-joined computer.
+Just download the latest ADUser-Amuser.exe or ADUser-Amuser.ps1 and run it on a domain-joined computer.  
 (Keep in mind that the program must be opened with a user who has the necessary AD permissions!)
 
 ### Prerequisites
