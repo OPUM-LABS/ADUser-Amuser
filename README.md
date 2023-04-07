@@ -105,7 +105,8 @@ You can do for all selectet users at once:
 ## Getting Started
 
 Just download the latest ADUser-Amuser.exe or ADUser-Amuser.ps1 and run it on a domain-joined computer.  
-(Keep in mind that the program must be opened with a user who has the necessary AD permissions!)
+(Note that neither the EXE nor the PS1 file is signed.  
+A warning message will appear either when you download the file(s) or most likely later when you try to open it!)
 
 ### Prerequisites
 
@@ -122,7 +123,8 @@ This is a program that can be easily run without installation.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Users can be searched globally or filtered by OU if desired, based on their SamAccountName or UserPrincipalName and. Several options are then available for interacting with them.
+Users can be searched globally or filtered by OU if desired, based on their SamAccountName or UserPrincipalName and. Several options are then available for interacting with them.  
+(Keep in mind that the program must be opened with a user who has the necessary AD permissions!)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
