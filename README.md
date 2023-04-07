@@ -145,4 +145,4 @@ Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for mor
 [issues-url]: https://github.com/OPUM-LABS/ADUser-Amuser/issues
 [license-shield]: https://img.shields.io/github/license/OPUM-LABS/ADUser-Amuser.svg?style=for-the-badge
 [license-url]: https://github.com/MitchPatch/MitchPatch/blob/master/LICENSE.txt
-[product-screenshot]: res/MitchPatch_Main_Window.png
+[product-screenshot]: .screenshots/ADUser-Amuser_b%26w.png
