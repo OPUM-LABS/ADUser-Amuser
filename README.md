@@ -77,8 +77,6 @@
 This program allows you to perform actions on multiple AD User objects at the same time easily and efficiently without having to know any PowerShell command.  
 "Amuser" stands for the fact that the processing of repetitive tasks with ADUsers can also be fun.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Features
 You can do for all selectet users at once:  
 ✨ Write all groups to the info-attribute  
@@ -99,7 +97,6 @@ You can do for all selectet users at once:
 * [Windows PowerShell ISE](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/ise/introducing-the-windows-powershell-ise?view=powershell-7.1)
 * [Notepad++](https://notepad-plus-plus.org/)
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
