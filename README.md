@@ -90,7 +90,7 @@ You can do for all selectet users at once:
 ✨ Toggle between simple and verbose output  
 ✨ Toggle between dark and bright theme
 
-Bonus:
+Bonus:  
 ✨ Check inside the program if a new version is available
 
 ### Built With
