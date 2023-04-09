@@ -90,6 +90,9 @@ You can do for all selectet users at once:
 ✨ Toggle between simple and verbose output  
 ✨ Toggle between dark and bright theme
 
+Bonus:
+✨ Check inside the program if a new version is available
+
 ### Built With
 
 * [PowerShell Studio 2022](https://www.sapien.com/software/powershell_studio)
