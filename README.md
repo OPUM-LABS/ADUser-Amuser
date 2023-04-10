@@ -123,7 +123,9 @@ This is a program that can be easily run without installation.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Users can be searched globally or filtered by OU if desired, based on their SamAccountName or UserPrincipalName and. Several options are then available for interacting with them.  
+ADUsers can be searched globally or filtered by OU if desired, based on their SamAccountName or UserPrincipalName. 
+(You can select or unselect the users afterwards)  
+Several options are then available for interacting with them.  
 (Keep in mind that the program must be opened with a user who has the necessary AD permissions!)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
